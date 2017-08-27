@@ -1,0 +1,6 @@
+framework module Pods_Saver {
+  umbrella header "Pods-Saver-umbrella.h"
+
+  export *
+  module * { export * }
+}
